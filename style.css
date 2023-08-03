@@ -3,6 +3,9 @@
    margin: 0;
    box-sizing: border-box;
 }
+.True{
+   font-family: 'roboto',sans-serif;
+}
 nav {
     display: flex;
     justify-content: space-around;
